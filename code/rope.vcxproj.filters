@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{79927515-8e10-422b-9faf-8dd7e0c3001a}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="GR">
+      <UniqueIdentifier>{236e2a57-048c-45a0-a058-f7bc686d314d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RS">
+      <UniqueIdentifier>{b6eff39a-19f1-413d-9e2a-bb4c9d69a34b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CO">
+      <UniqueIdentifier>{f11ff890-b895-4440-8b07-b88cbb9ff959}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{e6b7a88b-5a40-49f0-b28a-e1c6b22fe5c7}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{b66615a7-c87a-436e-9c02-427b188b1aa3}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GR\GRPrimRenderer.cpp">
+      <Filter>GR</Filter>
+    </ClCompile>
+    <ClCompile Include="GR\GRScene.cpp">
+      <Filter>GR</Filter>
+    </ClCompile>
+    <ClCompile Include="GR\GRWindow.cpp">
+      <Filter>GR</Filter>
+    </ClCompile>
+    <ClCompile Include="RS\RSCubicBSpline.cpp">
+      <Filter>RS</Filter>
+    </ClCompile>
+    <ClCompile Include="RS\RSCubicBSplineBF.cpp">
+      <Filter>RS</Filter>
+    </ClCompile>
+    <ClCompile Include="RS\RSRope.cpp">
+      <Filter>RS</Filter>
+    </ClCompile>
+    <ClCompile Include="RS\RSRopeSystem.cpp">
+      <Filter>RS</Filter>
+    </ClCompile>
+    <ClCompile Include="CO\COGlobalFc.cpp">
+      <Filter>CO</Filter>
+    </ClCompile>
+    <ClCompile Include="CO\COMatrix.cpp">
+      <Filter>CO</Filter>
+    </ClCompile>
+    <ClCompile Include="CO\COMatrix3D.cpp">
+      <Filter>CO</Filter>
+    </ClCompile>
+    <ClCompile Include="CO\COPolynomialFunctions.cpp">
+      <Filter>CO</Filter>
+    </ClCompile>
+    <ClCompile Include="CO\COVector.cpp">
+      <Filter>CO</Filter>
+    </ClCompile>
+    <ClCompile Include="CO\COVector3D.cpp">
+      <Filter>CO</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GR\GRPrimRenderer.h">
+      <Filter>GR</Filter>
+    </ClInclude>
+    <ClInclude Include="GR\GRScene.h">
+      <Filter>GR</Filter>
+    </ClInclude>
+    <ClInclude Include="GR\GRWindow.h">
+      <Filter>GR</Filter>
+    </ClInclude>
+    <ClInclude Include="RS\RSCubicBSpline.h">
+      <Filter>RS</Filter>
+    </ClInclude>
+    <ClInclude Include="RS\RSCubicBSplineBF.h">
+      <Filter>RS</Filter>
+    </ClInclude>
+    <ClInclude Include="RS\RSRope.h">
+      <Filter>RS</Filter>
+    </ClInclude>
+    <ClInclude Include="RS\RSRopeSystem.h">
+      <Filter>RS</Filter>
+    </ClInclude>
+    <ClInclude Include="CO\COMatrix.h">
+      <Filter>CO</Filter>
+    </ClInclude>
+    <ClInclude Include="CO\COMatrix3D.h">
+      <Filter>CO</Filter>
+    </ClInclude>
+    <ClInclude Include="CO\COPolynomialFunctions.h">
+      <Filter>CO</Filter>
+    </ClInclude>
+    <ClInclude Include="CO\COVector.h">
+      <Filter>CO</Filter>
+    </ClInclude>
+    <ClInclude Include="CO\COVector3D.h">
+      <Filter>CO</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

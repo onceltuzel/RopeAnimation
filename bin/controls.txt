@@ -1,0 +1,4 @@
+UP-DOWN-LEFT-RIGHT: Fixed point motion at x-z plane
+PAGE UP-PAGE DOWN: Fixed point motion at y coordinate
+p: Show/Hide Control points
+s-d-f-e-l-o: Camera motion
