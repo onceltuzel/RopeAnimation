@@ -4,7 +4,7 @@
 <img src="ropeanimation.jpg" width="40%">
 
 
-This repo implements a physics based rope animation system. Cubic b-splines are used to model the contiouos mass along the rope. The animation is performed via forces acting on the control points of the spline.
+This repo implements a physics based rope animation system. Cubic b-spline curve is used to model the continuous mass along the rope. The animation is performed via forces acting on the control points of the spline.
 
 ## Code 
 
